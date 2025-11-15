@@ -1,5 +1,53 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Bohdan",
+            "Surname": "Senychak",
+            "photo_url": "",
+            "balance": 100
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Nikita",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb610_Ep1ooWLTqohChtMe7m3mQNlYOugx8g&s",
+            "price": 0.01,
+            "description": "плутає команди в гіт",
+            "seller_id": 1
+        },
+        {
+            "id": 2,
+            "title": "Sergiy",
+            "img": "https://t3.ftcdn.net/jpg/04/75/99/40/360_F_475994015_XNkuTku3vSFt78nr9YIdhBzGETtbDEPB.jpg",
+            "price": 0.02,
+            "description": "завжди робить коміти напряму в main",
+            "seller_id": 2
+        },
+        {
+            "id": 3,
+            "title": "Andriy",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqY7UX-8Ylk8xABNkTuGPiPDe056xhC7JEg&s",
+            "price": 0.03,
+            "description": "любить ребейз більше ніж мердж",
+            "seller_id": 3
+        },
+        {
+            "id": 4,
+            "title": "Danya",
+            "img": "https://c8.alamy.com/comp/PGTX7P/monkies-at-monkey-forest-PGTX7P.jpg",
+            "price": 0.04,
+            "description": "завжди забуває пушнути зміни",
+            "seller_id": 4
+        },
+        {
+            "id": 5,
+            "title": "Mark",
+            "img": "https://www.shutterstock.com/image-photo/monkies-hanging-out-trees-eating-260nw-1086597116.jpg",
+            "price": 0.05,
+            "description": "робить force push без попередження",
+            "seller_id": 5
+        }
     ]
 }
